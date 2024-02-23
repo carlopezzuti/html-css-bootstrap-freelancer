@@ -1,0 +1,29 @@
+:root {
+    --primaryColor: #2B3E50;
+    --secondaryColor: #1BBC9B;
+    --primaryColorSubtle: #39546D;
+    --primaryTextColor: #fff;
+    --secondaryTextColor: #2B3E50;
+}
+
+/*******************
+    HEADER 
+ ******************/
+
+#jd-header {
+    background-color: #2B3E50;
+    color: #fff;
+}
+
+.navbar-brand {
+    color: #fff;
+}
+
+.nav-link {
+    color: #fff;
+}
+
+.navbar-toggler {
+    color: #fff;
+    border: 1px solid #fff;
+}
