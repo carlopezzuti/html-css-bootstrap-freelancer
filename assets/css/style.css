@@ -54,3 +54,22 @@ main section:nth-child(odd) {
 .jd-message {
     margin-top: 100px;
 }
+
+.jd-star-divider {
+    font-size: 2rem;
+}
+
+.jd-line-white {
+    height: 4px;
+    width: 80px;
+    background-color: var(--primaryTextColor);
+    border-radius: 2px;
+}
+
+.jd-line-black {
+    height: 4px;
+    width: 80px;
+    background-color: var(--secondaryTextColor);
+    border-radius: 2px;
+}
+
